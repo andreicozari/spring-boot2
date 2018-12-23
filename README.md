@@ -10,4 +10,5 @@ http://livereload.com/extensions/
 # Add in edit configuration for run/debug conf: 
 Program arguments: 
 --javaagent:/Users/cozaria/_Dev/_Dev/libs/springloaded-1.2.8.RELEASE.jar
+ require:  Build project (CMD + F9)
 https://github.com/spring-projects/spring-loaded
