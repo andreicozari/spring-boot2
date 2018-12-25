@@ -1,0 +1,11 @@
+app:
+  name: spring-boot-2.1-demo
+  description: ${app.name} in practice.
+
+server:
+  port: 8089
+
+logging:
+  level:
+     de:
+     windeln: DEBUG
