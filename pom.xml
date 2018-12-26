@@ -8,8 +8,8 @@
 		<version>2.1.1.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>de.windeln</groupId>
+	<artifactId>spring-boot-2.1.1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-2.1.1</name>
 	<description>Demo project for Spring Boot 2.1.1</description>
